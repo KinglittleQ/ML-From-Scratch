@@ -266,66 +266,66 @@ but rather to present the inner workings of them in a transparent and accessible
         [1, 4] -> 2 (support: 0.29, confidence: 1.0)
 
 
-## Implementations
+## To be implementated
 ### Supervised Learning
-- [Adaboost](mlfromscratch/supervised_learning/adaboost.py)
-- [Bayesian Regression](mlfromscratch/supervised_learning/bayesian_regression.py)
-- [Decision Tree](mlfromscratch/supervised_learning/decision_tree.py)
-- [Elastic Net](mlfromscratch/supervised_learning/regression.py)
-- [Gradient Boosting](mlfromscratch/supervised_learning/gradient_boosting.py)
-- [K Nearest Neighbors](mlfromscratch/supervised_learning/k_nearest_neighbors.py)
-- [Lasso Regression](mlfromscratch/supervised_learning/regression.py)
-- [Linear Discriminant Analysis](mlfromscratch/supervised_learning/linear_discriminant_analysis.py)
-- [Linear Regression](mlfromscratch/supervised_learning/regression.py)
-- [Logistic Regression](mlfromscratch/supervised_learning/logistic_regression.py)
-- [Multi-class Linear Discriminant Analysis](mlfromscratch/supervised_learning/multi_class_lda.py)
-- [Multilayer Perceptron](mlfromscratch/supervised_learning/multilayer_perceptron.py)
-- [Naive Bayes](mlfromscratch/supervised_learning/naive_bayes.py)
-- [Neuroevolution](mlfromscratch/supervised_learning/neuroevolution.py)
-- [Particle Swarm Optimization of Neural Network](mlfromscratch/supervised_learning/particle_swarm_optimization.py)
-- [Perceptron](mlfromscratch/supervised_learning/perceptron.py)
-- [Polynomial Regression](mlfromscratch/supervised_learning/regression.py)
-- [Random Forest](mlfromscratch/supervised_learning/random_forest.py)
-- [Ridge Regression](mlfromscratch/supervised_learning/regression.py)
-- [Support Vector Machine](mlfromscratch/supervised_learning/support_vector_machine.py)
-- [XGBoost](mlfromscratch/supervised_learning/xgboost.py)
+- [ ] [Adaboost](mlfromscratch/supervised_learning/adaboost.py)
+- [ ] [Bayesian Regression](mlfromscratch/supervised_learning/bayesian_regression.py)
+- [ ] [Decision Tree](mlfromscratch/supervised_learning/decision_tree.py)
+- [ ] [Elastic Net](mlfromscratch/supervised_learning/regression.py)
+- [ ] [Gradient Boosting](mlfromscratch/supervised_learning/gradient_boosting.py)
+- [ ] [K Nearest Neighbors](mlfromscratch/supervised_learning/k_nearest_neighbors.py)
+- [ ] [Lasso Regression](mlfromscratch/supervised_learning/regression.py)
+- [ ] [Linear Discriminant Analysis](mlfromscratch/supervised_learning/linear_discriminant_analysis.py)
+- [ ] [Linear Regression](mlfromscratch/supervised_learning/regression.py)
+- [ ] [Logistic Regression](mlfromscratch/supervised_learning/logistic_regression.py)
+- [ ] [Multi-class Linear Discriminant Analysis](mlfromscratch/supervised_learning/multi_class_lda.py)
+- [ ] [Multilayer Perceptron](mlfromscratch/supervised_learning/multilayer_perceptron.py)
+- [ ] [Naive Bayes](mlfromscratch/supervised_learning/naive_bayes.py)
+- [ ] [Neuroevolution](mlfromscratch/supervised_learning/neuroevolution.py)
+- [ ] [Particle Swarm Optimization of Neural Network](mlfromscratch/supervised_learning/particle_swarm_optimization.py)
+- [ ] [Perceptron](mlfromscratch/supervised_learning/perceptron.py)
+- [ ] [Polynomial Regression](mlfromscratch/supervised_learning/regression.py)
+- [ ] [Random Forest](mlfromscratch/supervised_learning/random_forest.py)
+- [ ] [Ridge Regression](mlfromscratch/supervised_learning/regression.py)
+- [ ] [Support Vector Machine](mlfromscratch/supervised_learning/support_vector_machine.py)
+- [ ] [XGBoost](mlfromscratch/supervised_learning/xgboost.py)
 
 ### Unsupervised Learning
-- [Apriori](mlfromscratch/unsupervised_learning/apriori.py)
-- [Autoencoder](mlfromscratch/unsupervised_learning/autoencoder.py)
-- [DBSCAN](mlfromscratch/unsupervised_learning/dbscan.py)
-- [FP-Growth](mlfromscratch/unsupervised_learning/fp_growth.py)
-- [Gaussian Mixture Model](mlfromscratch/unsupervised_learning/gaussian_mixture_model.py)
-- [Generative Adversarial Network](mlfromscratch/unsupervised_learning/generative_adversarial_network.py)
-- [Genetic Algorithm](mlfromscratch/unsupervised_learning/genetic_algorithm.py)
-- [K-Means](mlfromscratch/unsupervised_learning/k_means.py)
-- [Partitioning Around Medoids](mlfromscratch/unsupervised_learning/partitioning_around_medoids.py)
-- [Principal Component Analysis](mlfromscratch/unsupervised_learning/principal_component_analysis.py)
-- [Restricted Boltzmann Machine](mlfromscratch/unsupervised_learning/restricted_boltzmann_machine.py)
+- [ ] [Apriori](mlfromscratch/unsupervised_learning/apriori.py)
+- [ ] [Autoencoder](mlfromscratch/unsupervised_learning/autoencoder.py)
+- [ ] [DBSCAN](mlfromscratch/unsupervised_learning/dbscan.py)
+- [ ] [FP-Growth](mlfromscratch/unsupervised_learning/fp_growth.py)
+- [ ] [Gaussian Mixture Model](mlfromscratch/unsupervised_learning/gaussian_mixture_model.py)
+- [ ] [Generative Adversarial Network](mlfromscratch/unsupervised_learning/generative_adversarial_network.py)
+- [ ] [Genetic Algorithm](mlfromscratch/unsupervised_learning/genetic_algorithm.py)
+- [ ] [K-Means](mlfromscratch/unsupervised_learning/k_means.py)
+- [ ] [Partitioning Around Medoids](mlfromscratch/unsupervised_learning/partitioning_around_medoids.py)
+- [ ] [Principal Component Analysis](mlfromscratch/unsupervised_learning/principal_component_analysis.py)
+- [ ] [Restricted Boltzmann Machine](mlfromscratch/unsupervised_learning/restricted_boltzmann_machine.py)
 
 ### Reinforcement Learning
 - [Deep Q-Network](mlfromscratch/reinforcement_learning/deep_q_network.py)
 
 ### Deep Learning
-  + [Neural Network](mlfromscratch/deep_learning/neural_network.py)
-  + [Layers](mlfromscratch/deep_learning/layers.py)
-    * Activation Layer
-    * Average Pooling Layer
-    * Batch Normalization Layer
-    * Constant Padding Layer
-    * Convolutional Layer
-    * Dropout Layer
-    * Flatten Layer
-    * Fully-Connected (Dense) Layer
-    * Fully-Connected RNN Layer
-    * Max Pooling Layer
-    * Reshape Layer
-    * Up Sampling Layer
-    * Zero Padding Layer
+  + [ ] [Neural Network](mlfromscratch/deep_learning/neural_network.py)
+  + [ ] [Layers](mlfromscratch/deep_learning/layers.py)
+    * [ ] Activation Layer
+    * [ ] Average Pooling Layer
+    * [ ] Batch Normalization Layer
+    * [ ] Constant Padding Layer
+    * [ ] Convolutional Layer
+    * [ ] Dropout Layer
+    * [ ] Flatten Layer
+    * [ ] Fully-Connected (Dense) Layer
+    * [ ] Fully-Connected RNN Layer
+    * [ ] Max Pooling Layer
+    * [ ] Reshape Layer
+    * [ ] Up Sampling Layer
+    * [ ] Zero Padding Layer
   + Model Types
-    * [Convolutional Neural Network](mlfromscratch/examples/convolutional_neural_network.py)
-    * [Multilayer Perceptron](mlfromscratch/examples/multilayer_perceptron.py)
-    * [Recurrent Neural Network](mlfromscratch/examples/recurrent_neural_network.py)
+    * [ ] [Convolutional Neural Network](mlfromscratch/examples/convolutional_neural_network.py)
+    * [ ] [Multilayer Perceptron](mlfromscratch/examples/multilayer_perceptron.py)
+    * [ ] [Recurrent Neural Network](mlfromscratch/examples/recurrent_neural_network.py)
 
 ## Contact
 If there's some implementation you would like to see here or if you're just feeling social,
