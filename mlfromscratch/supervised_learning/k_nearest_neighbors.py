@@ -25,8 +25,8 @@ class KNN():
         y_train = y_train.astype(np.int32)
         y_pred = np.zeros((N,), dtype=np.int32)
         for i in range(N):
-            y = y_train[sorted_indices[i]]  # [k]
-            bin = np.bincount(y)
+            neighbors = y_train[sorted_indices[i]]  # [k]
+            bin = np.bincount(neighbors)
             y_pred[i] = np.argmax(bin, axis=0)
 
         return y_pred
